@@ -1,0 +1,10 @@
+de/abstractfactory/species/Animal.class
+de/abstractfactory/species/Tyrannosaurus.class
+de/abstractfactory/species/ReptileFactory.class
+de/abstractfactory/species/Cat.class
+de/abstractfactory/species/SpeciesApp.class
+de/abstractfactory/species/AbstractFactory.class
+de/abstractfactory/species/Dog.class
+de/abstractfactory/species/MammalFactory.class
+de/abstractfactory/species/Snake.class
+de/abstractfactory/species/SpeciesFactory.class

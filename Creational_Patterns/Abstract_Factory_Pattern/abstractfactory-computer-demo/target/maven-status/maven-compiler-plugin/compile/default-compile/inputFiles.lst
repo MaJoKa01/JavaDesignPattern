@@ -1,0 +1,8 @@
+/Users/martinkanold/Documents/workspace/Pattern/Creational_Patterns/Abstract_Factory_Pattern/abstractfactory-computer-demo/src/main/java/de/abstractfactory/computer/AMDCPU.java
+/Users/martinkanold/Documents/workspace/Pattern/Creational_Patterns/Abstract_Factory_Pattern/abstractfactory-computer-demo/src/main/java/de/abstractfactory/computer/IntelCPU.java
+/Users/martinkanold/Documents/workspace/Pattern/Creational_Patterns/Abstract_Factory_Pattern/abstractfactory-computer-demo/src/main/java/de/abstractfactory/computer/Computer.java
+/Users/martinkanold/Documents/workspace/Pattern/Creational_Patterns/Abstract_Factory_Pattern/abstractfactory-computer-demo/src/main/java/de/abstractfactory/computer/IntelFactory.java
+/Users/martinkanold/Documents/workspace/Pattern/Creational_Patterns/Abstract_Factory_Pattern/abstractfactory-computer-demo/src/main/java/de/abstractfactory/computer/AMDFactory.java
+/Users/martinkanold/Documents/workspace/Pattern/Creational_Patterns/Abstract_Factory_Pattern/abstractfactory-computer-demo/src/main/java/de/abstractfactory/computer/ComputerApp.java
+/Users/martinkanold/Documents/workspace/Pattern/Creational_Patterns/Abstract_Factory_Pattern/abstractfactory-computer-demo/src/main/java/de/abstractfactory/computer/CPU.java
+/Users/martinkanold/Documents/workspace/Pattern/Creational_Patterns/Abstract_Factory_Pattern/abstractfactory-computer-demo/src/main/java/de/abstractfactory/computer/CPUFactory.java

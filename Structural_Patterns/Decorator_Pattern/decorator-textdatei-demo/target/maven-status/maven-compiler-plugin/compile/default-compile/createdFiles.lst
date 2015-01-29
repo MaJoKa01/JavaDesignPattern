@@ -1,0 +1,6 @@
+de/decorator/textdatei/EntitiesUmgewandeltTextdateiDekorierer.class
+de/decorator/textdatei/KonkreteTextDatei.class
+de/decorator/textdatei/TextDatei.class
+de/decorator/textdatei/KomprimierteTextdateiDekorierer.class
+de/decorator/textdatei/TextDateiApp.class
+de/decorator/textdatei/TextDateiDekorierer.class

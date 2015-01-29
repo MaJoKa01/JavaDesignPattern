@@ -1,0 +1,5 @@
+de/flyweight/coffee/Coffee.class
+de/flyweight/coffee/CoffeeFactory.class
+de/flyweight/coffee/CoffeeContext.class
+de/flyweight/coffee/ICoffee.class
+de/flyweight/coffee/CoffeeApp.class

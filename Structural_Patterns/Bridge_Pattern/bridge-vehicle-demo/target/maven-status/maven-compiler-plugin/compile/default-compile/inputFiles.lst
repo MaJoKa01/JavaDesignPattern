@@ -1,0 +1,7 @@
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-vehicle-demo/src/main/java/de/bidge/vehicle/VehicleDemo.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-vehicle-demo/src/main/java/de/bidge/vehicle/Vehicle.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-vehicle-demo/src/main/java/de/bidge/vehicle/SmallEngine.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-vehicle-demo/src/main/java/de/bidge/vehicle/BigBus.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-vehicle-demo/src/main/java/de/bidge/vehicle/SmallCar.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-vehicle-demo/src/main/java/de/bidge/vehicle/BigEngine.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-vehicle-demo/src/main/java/de/bidge/vehicle/IEngine.java

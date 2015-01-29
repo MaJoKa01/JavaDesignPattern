@@ -1,0 +1,8 @@
+de/abstractfactory/computer/CPU.class
+de/abstractfactory/computer/CPUFactory.class
+de/abstractfactory/computer/AMDCPU.class
+de/abstractfactory/computer/AMDFactory.class
+de/abstractfactory/computer/IntelCPU.class
+de/abstractfactory/computer/Computer.class
+de/abstractfactory/computer/ComputerApp.class
+de/abstractfactory/computer/IntelFactory.class

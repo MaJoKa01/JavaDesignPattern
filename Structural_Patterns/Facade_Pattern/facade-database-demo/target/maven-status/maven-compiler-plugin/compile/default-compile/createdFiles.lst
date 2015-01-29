@@ -1,0 +1,10 @@
+de/facade/database/HelperFacade$DBTypes.class
+de/facade/database/HelperFacade$ReportTypes.class
+de/facade/database/PostGresHelper.class
+de/facade/database/IReport.class
+de/facade/database/MySqlHelper.class
+de/facade/database/HelperFacade$1.class
+de/facade/database/DatabaseApp.class
+de/facade/database/OracleHelper$1.class
+de/facade/database/OracleHelper.class
+de/facade/database/HelperFacade.class

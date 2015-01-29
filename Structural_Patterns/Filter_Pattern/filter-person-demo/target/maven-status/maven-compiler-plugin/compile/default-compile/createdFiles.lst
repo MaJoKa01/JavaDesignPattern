@@ -1,0 +1,8 @@
+de/filter/person/FilterApp.class
+de/filter/person/Person.class
+de/filter/person/CriteriaMale.class
+de/filter/person/CriteriaFemale.class
+de/filter/person/ICriteria.class
+de/filter/person/AndCriteria.class
+de/filter/person/CriteriaSingle.class
+de/filter/person/OrCriteria.class

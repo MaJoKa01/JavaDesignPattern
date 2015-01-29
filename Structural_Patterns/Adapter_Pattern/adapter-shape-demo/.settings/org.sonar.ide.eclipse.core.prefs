@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.language\=java\r\nsonar.core.codeCoveragePlugin\=jacoco\r\nsonar.jacoco.reportPath\=/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Adapter_Pattern/adapter-shape-demo/../target/jacoco.exec\r\nsonar.skippedModules\=plugin.tests\r\nsonar.junit.reportsPath\=../adapter-shape-demo.tests/target/surefire-reports/\r\nsonar.dynamicAnalysis\=reuseReports
+projectKey=de.adapter.shape\:adapter-shape-demo
+serverUrl=http\://localhost\:9000
+version=2

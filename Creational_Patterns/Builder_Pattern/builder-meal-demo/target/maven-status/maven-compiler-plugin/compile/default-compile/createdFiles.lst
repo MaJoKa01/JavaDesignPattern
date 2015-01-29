@@ -1,0 +1,6 @@
+de/builder/meal/MealDirector.class
+de/builder/meal/JapaneseMealBuilder.class
+de/builder/meal/ItalianMealBuilder.class
+de/builder/meal/Meal.class
+de/builder/meal/IMealBuilder.class
+de/builder/meal/MealApp.class

@@ -1,0 +1,6 @@
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Decorator_Pattern/decorator-email-demo/src/main/java/de/decorator/email/SecureEmailDecorator.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Decorator_Pattern/decorator-email-demo/src/main/java/de/decorator/email/IEmail.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Decorator_Pattern/decorator-email-demo/src/main/java/de/decorator/email/ExternalEmailDecorator.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Decorator_Pattern/decorator-email-demo/src/main/java/de/decorator/email/Email.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Decorator_Pattern/decorator-email-demo/src/main/java/de/decorator/email/EmailDecorator.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Decorator_Pattern/decorator-email-demo/src/main/java/de/decorator/email/EmailApp.java

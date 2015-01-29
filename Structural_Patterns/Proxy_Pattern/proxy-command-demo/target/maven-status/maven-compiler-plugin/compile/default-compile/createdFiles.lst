@@ -1,0 +1,4 @@
+de/proxy/command/CommandApp.class
+de/proxy/command/CommandExecutorProxy.class
+de/proxy/command/ICommandExecutor.class
+de/proxy/command/CommandExecutor.class

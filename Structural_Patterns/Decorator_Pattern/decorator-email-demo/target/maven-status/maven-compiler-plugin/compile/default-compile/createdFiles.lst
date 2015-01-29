@@ -1,0 +1,6 @@
+de/decorator/email/Email.class
+de/decorator/email/ExternalEmailDecorator.class
+de/decorator/email/EmailDecorator.class
+de/decorator/email/SecureEmailDecorator.class
+de/decorator/email/IEmail.class
+de/decorator/email/EmailApp.class

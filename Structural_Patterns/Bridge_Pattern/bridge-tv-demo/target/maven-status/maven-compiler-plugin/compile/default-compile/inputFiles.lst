@@ -1,0 +1,7 @@
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-tv-demo/src/main/java/de/bridge/tv/BridgeTVDemo.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-tv-demo/src/main/java/de/bridge/tv/SonyRemoteControl.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-tv-demo/src/main/java/de/bridge/tv/Philips.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-tv-demo/src/main/java/de/bridge/tv/PhilipsRemoteControl.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-tv-demo/src/main/java/de/bridge/tv/RemoteControl.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-tv-demo/src/main/java/de/bridge/tv/Sony.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Bridge_Pattern/bridge-tv-demo/src/main/java/de/bridge/tv/TV.java

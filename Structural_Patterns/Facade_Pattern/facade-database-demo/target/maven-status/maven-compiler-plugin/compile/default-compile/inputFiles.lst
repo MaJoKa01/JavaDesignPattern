@@ -1,0 +1,6 @@
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Facade_Pattern/facade-database-demo/src/main/java/de/facade/database/DatabaseApp.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Facade_Pattern/facade-database-demo/src/main/java/de/facade/database/IReport.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Facade_Pattern/facade-database-demo/src/main/java/de/facade/database/MySqlHelper.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Facade_Pattern/facade-database-demo/src/main/java/de/facade/database/PostGresHelper.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Facade_Pattern/facade-database-demo/src/main/java/de/facade/database/HelperFacade.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Facade_Pattern/facade-database-demo/src/main/java/de/facade/database/OracleHelper.java

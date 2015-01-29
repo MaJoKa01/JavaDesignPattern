@@ -1,0 +1,8 @@
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Filter_Pattern/filter-person-demo/src/main/java/de/filter/person/FilterApp.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Filter_Pattern/filter-person-demo/src/main/java/de/filter/person/AndCriteria.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Filter_Pattern/filter-person-demo/src/main/java/de/filter/person/ICriteria.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Filter_Pattern/filter-person-demo/src/main/java/de/filter/person/CriteriaMale.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Filter_Pattern/filter-person-demo/src/main/java/de/filter/person/CriteriaFemale.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Filter_Pattern/filter-person-demo/src/main/java/de/filter/person/Person.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Filter_Pattern/filter-person-demo/src/main/java/de/filter/person/CriteriaSingle.java
+/Users/martinkanold/Documents/workspace/Pattern/Structural_Patterns/Filter_Pattern/filter-person-demo/src/main/java/de/filter/person/OrCriteria.java

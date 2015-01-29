@@ -1,0 +1,6 @@
+de/adapter/shape/Rectangle.class
+de/adapter/shape/ShapeApp.class
+de/adapter/shape/Shape.class
+de/adapter/shape/LegacyLine.class
+de/adapter/shape/Line.class
+de/adapter/shape/LegacyRectangle.class

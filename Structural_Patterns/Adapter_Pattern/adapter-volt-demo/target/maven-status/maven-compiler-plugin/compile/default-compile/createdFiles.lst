@@ -1,0 +1,6 @@
+de/adapter/volt/SocketClassAdapter.class
+de/adapter/volt/ISocketAdapter.class
+de/adapter/volt/Socket.class
+de/adapter/volt/SocketObjectAdapter.class
+de/adapter/volt/Volt.class
+de/adapter/volt/VoltApp.class
